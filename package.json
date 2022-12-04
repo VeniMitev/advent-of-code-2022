@@ -9,6 +9,8 @@
   "author": "Veni Mitev",
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "^18.11.10"
+    "@types/node": "^18.11.10",
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1"
   }
 }

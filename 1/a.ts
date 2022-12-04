@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const data = fs.readFile('./1/input.txt', 'utf8', (err: any, data: any) => {
+const data = fs.readFile('./1/puzzle.txt', 'utf8', (err: any, data: any) => {
     if (err) {
         console.log(err)
     } else {
